@@ -89,5 +89,10 @@
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 8"
+  },
+  "dependencies": {
+    "ember-service-worker": "^0.6.12",
+    "ember-service-worker-asset-cache": "^0.6.2",
+    "ember-service-worker-index": "^0.6.9"
   }
 }
